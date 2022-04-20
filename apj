@@ -1,0 +1,196 @@
+ 
+<html>
+<head>
+<title>
+A.P.J. Abdul Kalam
+</title>
+<style>
+    .mo {
+      background-color: rgb(202, 207, 210 );
+      color: black;
+      border: 2px solid white;
+      margin: 20px;
+      padding: 20px;
+      /* background-image: url("aa1.jpg"); */
+       /* background-color: #cccccc; */
+    }
+    /* .ribbon {
+            position: absolute;
+            top: 190px; 
+            right: 230px;
+            
+         }
+         #right{
+            float: right;
+         } */
+    .city {
+      background-color:rgb(212, 239, 223)  ;
+      color: black;
+      border: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+      background-image: url("aa5.jpg");
+    }
+    .hlo {
+      background-color: rgb(250, 219, 216);
+      color: black;
+      border: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+    }
+    .hloo {
+      background-color: rgb(232, 218, 239);
+      color: black;
+      border: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+    }
+    
+    .hi {
+      background-color: rgb(249, 231, 159 );
+      color: black;
+      border: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+    }
+    .cd {
+      background-color: rgb(250, 219, 216 );
+      color: black;
+      border: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+    }
+    .ab {
+      background-color: rgb(244, 252, 181  );
+      color: black;
+      border: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+    }
+    .quo {
+      background-color: rgb(214, 234, 248  );
+      color: black;
+      border: 2px solid black;
+      margin: 20px;
+      padding: 20px;
+    }
+    .ribbon {
+            position: absolute;
+            top: 200px; 
+            right: 250px;
+            
+         }
+         #right{
+            float: right;
+         }
+    /* .pic {
+        background-image: url("aa1.jpg");
+        background-image: url("aa2.jpg");
+        background-image: url("aa3.jpg");
+        background-image: url("aa4.jpg");
+
+    }      */
+         body  {
+  background-image: url("paper.gif");
+  background-color: #cccccc;
+}
+         
+
+    </style>
+</head>
+<body>
+
+
+    <div class="mo">
+        <h1><b><center>Avul Pakir Jainulabdeen Abdul Kalam</center></b></h1> 
+        
+     
+
+        <!-- <img src="apj1.jpeg" class="ribbon"/> 
+        <img src="apj1.jpeg" class="ribbon" id="right">
+         </img> -->
+    </div>
+
+<!--     
+    <div class="pic">
+        <h3>Quotes</h3>
+     -->
+    </div>
+              
+    <div class="city"> <h2><b><center>Personal Details </center></b> </h2> 
+       
+        <ul><h3>Born</h3>  15 October 1931<br>
+
+        Rameswaram, Madras Presidency, British India,<br>(present-day Tamil Nadu, India)</ul> 
+        <ul> <h3>Died</h3>	27 July 2015 (aged 83)<br>
+        Shillong, Meghalaya, India </ul>  
+       
+      <ul> <h3>Resting Place</h3> 	Dr. A. P. J. Abdul Kalam Desiya Ninaivagam, Pei Karumbu, <br>Rameswaram, Tamil Nadu, India </ul> 
+      <ul> <h3> Nationality</h3>Indian </ul> </div>
+
+
+  <div class="hlo">  <h3>11th President of India</h3>
+
+    <!-- <img src="apj1.jpeg" class="ribbon"/>  -->
+    <!-- <img src="apj1.jpeg" class="ribbon" id="right">
+     </img> -->
+    <ul>In Office:25 July 2002 - 25 July 2007</ul>
+    <ul>Prime Minister:<br>	Atal Bihari Vajpayee <br> Manmohan Singh</ul>
+    <ul>Vice President:<br>	Krishan Kant<br>Bhairon Singh Shekhawat</ul>
+    <ul>Preceded by	K. R. Narayanan</ul>
+    <ul>Succeeded by	Pratibha Patil</ul> </div>
+  
+  
+    <div class="hloo">  <h3> Principal Scientific Adviser to the Government of India</h3>
+    <ul>In office:1999–2002</ul>
+    <ul>President:	K. R. Narayanan</ul>
+    <ul>Prime Minister:	Atal Bihari Vajpayee</ul>
+    <ul>Preceded by	Position established</ul>
+    <ul>Succeeded by	Rajagopala Chidambaram </ul>    </div>    
+  
+  
+   <div class="hi"><h3> Alma mater </h3>	    <ul>St. Joseph's College, Tiruchirappalli (BEng)</ul>
+        <ul> Madras Institute of Technology (MEng)</ul>
+    <h3> Profession</h3>	
+        <ul>Aerospace Scientist </ul>
+        <ul>Author</ul>
+     <h3> Political Affiliations</h3>	<ul>NDA</ul> 
+    </div> 
+       
+     
+     <div class="cd"><h3> Awards</h3>
+        <ul> 1981: Padma Bhushan-Government of India</ul>
+        <ul>1990: Padma Vibhushan - Government of India</ul>
+        <ul>1997: Bharat Ratna - Government of India</ul>
+        <ul>1997: Indira Gandhi Award for National Integration - Government of India</ul>
+        <ul>1998: Veer Sarkar Award - Government of India</ul>
+        <ul>2000: SASTRA Ramanujan Prize - Shanmugha Arts,Science,Technology & Research Academy, India</ul>
+        <ul>2013: Von Braun Award - National Space Society</ul>
+        </ul> 
+    </div> 
+     
+     
+    <div class="ab"><b>Notable work(s)	</b>
+      <ol>Wings of Fire </ol> 
+      <ol>India 2020</ol>
+      <ol>Ignited Minds</ol>
+      <ol>Indomitable Spirit</ol>
+      <ol> Transcendence: My Spiritual Experiences with Pramukh Swamiji</ol>
+    </div>
+
+   
+    <div class="hloo"> <b>Scientific career </b>
+        <ul>Fields	Aerospace Engineering</ul> 
+        <ul>Defence Research and Development Organisation</ul>
+        <ul>Indian Space Research Organisation</ul>
+     </div> 
+
+    <div class="quo"><h3>Quotes</h3>
+      <ul>If you want to shine like a sun, first burn like a sun.</ul> 
+      <ul>Let us sacrifice our today so that our children can have a better tomorrow.</ul> 
+      <ul>Climbing to the top demands strength, whether it is to the top of Mount Everest or to the top of your career.</ul> 
+      <ul>To become 'unique,' the challenge is to fight the hardest battle which anyone can imagine until you reach your destination.    </ul> 
+      <ul>Great teachers emanate out of knowledge, passion and compassion.</ul> 
+    </div>
+</body>
+</html>
